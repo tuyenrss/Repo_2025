@@ -9,3 +9,9 @@
   }
 5. Interactive code within vs code. get jupyter interactive code extension, and boi den the code va shift enter run the code.
 6. Documentation for setting up User setting in the vis code https://datalumina.clickup.com/docs/9015213037/d/h/8cnjezd-17675/ddd52c673443975
+
+# Some vs tips to boost productivity
+- ctr /: comment out code lines
+- ctr `: Open the terminal 
+- tab: Indentation the code if we select the code 
+- ctr x: delete the line 
