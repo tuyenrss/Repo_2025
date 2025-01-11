@@ -1,0 +1,11 @@
+1. Open the sourse code of a function: move the cursor to the function name and ctr click
+2. Open the virtual environment terminal of a current section: ctr+`
+3. Install the following extensions: ruff, python, material icon theme, atom one dark theme. If we want to auto save and format the code, go to User Setting and find "default formatter" and select ruf from editor box.
+4. if we want to overwrite some icons of folder, we can set up in user setting like this. Please see this icon https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+  "material-icon-theme.folders.associations": {
+    "venv": "environment",
+    "references": "docs",
+    "modeling": "generator"
+  }
+5. Interactive code within vs code. get jupyter interactive code extension, and boi den the code va shift enter run the code.
+6. Documentation for setting up User setting in the vis code https://datalumina.clickup.com/docs/9015213037/d/h/8cnjezd-17675/ddd52c673443975
