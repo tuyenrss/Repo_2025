@@ -15,3 +15,4 @@
 - ctr `: Open the terminal 
 - tab: Indentation the code if we select the code 
 - ctr x: delete the line 
+- alt and move the cursor to multiple lines to replace or type new text.
