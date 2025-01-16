@@ -17,3 +17,7 @@
 - ctr x: delete the line 
 - alt and move the cursor to multiple lines to replace or type new text.
 - alt arrow key: move the line up or down
+
+## Use poetry
+
+= Install a current package in local machine, we have to cc to the package folder (mypackage): poetry install 
