@@ -11,4 +11,4 @@ https://www.klett-sprachen.de/linie-1-uebungen/a2/coursePlayer/curso2_idcurso_11
 https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Integrationskurse/Kursteilnehmer/AntraegeAlle/630-007_antrag-zulassung-integrationskurs-ausl_pdf.html?nn=282388
 
 //// Git command///
-- Commit truc tiep vao previous push: git add . -> git commit --amend -> git push origin branch_name -f 
+- Commit truc tiep vao previous push: git add . -> git commit --amend -> :wq -> git push origin branch_name -f 
